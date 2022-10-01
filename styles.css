@@ -133,11 +133,19 @@ a:visited{
         background-color: inherit;
         border-bottom: 1px solid #4d4e53;
     }
+    #cont{
+        position: absolute;
+        top: 70px;
+        height: 180px;
+        overflow: scroll;
+        width: 100%;
+        text-align: center;
+    }
 
-    main{
+    #main-doc{
         position: absolute;
         left: 0;
-        top: 250px;
+        top: 300px;
         padding-top: 10px;
     }
     
@@ -152,8 +160,4 @@ a:visited{
         padding-bottom: 5px;
     }
     
-    .nav-link{
-        height: 200px;
-    }
-
 }
