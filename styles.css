@@ -15,7 +15,6 @@ body{
 }
 
 main{
-    /* grid-area: 1 / 2 / span 1/ span 1; */
     display: flex;
     flex-flow: column;
     justify-content: center;
