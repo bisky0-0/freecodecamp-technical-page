@@ -142,6 +142,7 @@ a:visited{
     }
     
     #navbar > header{
+        background-color: #fff;
         position: fixed;
         z-index: 200;
         height: 50px;
@@ -149,5 +150,8 @@ a:visited{
         padding-top: 10px;
         padding-bottom: 10px;
     }
+    
+    .nav-link{
+        height: 200px;
 
 }
